@@ -1,0 +1,13 @@
+# Byte‑compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directory
+venv/
+.env/
+
+# Local report outputs
+reports/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
